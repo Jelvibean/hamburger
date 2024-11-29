@@ -1,5 +1,4 @@
 # hamburger
 
 My repo for a nextjs project
-Testing the flow to git right now.
-gsdjflsjdflksd
+This is to go through the whole flow of how to get a branch out to the git repo.
